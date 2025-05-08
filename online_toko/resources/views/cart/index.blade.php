@@ -54,7 +54,7 @@
                     <button type="submit" class="btn btn-outline-danger rounded-pill">Kosongkan Keranjang</button>
                 </form>
 
-                <a href="{{ route('checkout.form') }}" class="btn btn-success rounded-pill">
+                <a href="{{ route('checkout.index') }}" class="btn btn-success rounded-pill">
                     Lanjutkan ke Checkout →
                 </a>
             </div>
